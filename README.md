@@ -72,3 +72,19 @@ At the end of the script, a **random review** is selected and its predicted sent
    ```bash
    pip install pandas numpy nltk textblob scikit-learn matplotlib wordcloud pillow
    ```
+2. Run the Python script:
+   ```bash
+   python sentiment_analysis.py
+   ```
+##  Outputs
+
+**Console:**
+
+- Logistic Regression CV Accuracy  
+- Random Forest CV Accuracy 
+  
+
+ ##  License
+
+This project is licensed under the **MIT License**.  
+You are free to use, modify, and distribute this software with proper attribution.
